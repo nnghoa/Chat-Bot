@@ -1,6 +1,6 @@
 ## Mục tiêu 
 
-Trình bày toàn bộ quy trình xây dựng chatbot nội bộ sử dụng kỹ thuật RAG.
+Trình bày toàn bộ quy trình xây dựng chatbot nội bộ.
 
 So sánh hiệu quả giữa phương pháp tìm kiếm truyền thống (keyword-based) và phương pháp embedding hiện đại.
 
@@ -12,7 +12,7 @@ Thực hành triển khai mô hình thực tế với công cụ như Langchain,
    
 Khởi đầu với cách tiếp cận truyền thống: tìm kiếm và trích xuất thông tin theo từ khóa.
 
-Sử dụng GPT-4o-mini làm mô hình LLM (bạn có thể tùy chọn mô hình khác như Claude, Mistral, v.v).
+Sử dụng Despseek làm mô hình LLM.
 
 Cơ chế hoạt động tương tự như chatbot rule-based.
 
@@ -43,3 +43,5 @@ Trang chủ: https://www.trychroma.com
 Dễ sử dụng, cài đặt nhanh, phù hợp với dự án nhỏ & vừa.
 
 Hỗ trợ persist dữ liệu vector, metadata và document chunks.
+
+Đây là dự án test: có bất kỳ vấn đề liên quan vui lòng liên hệ: nnghoa6@gmail.com. Xin cảm ơn
