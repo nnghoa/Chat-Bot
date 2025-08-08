@@ -1,11 +1,3 @@
-Link Video: [Tổng hợp các kiến thức cần thiết về AI (2025 updates)](https://youtu.be/dw7RMFvfRwc)
-
-# 📚 AI Overview 2025
-
-Tổng hợp các kiến thức cần thiết về AI cập nhật đến năm 2025.
-
-Dự án này giúp bạn có cái nhìn tổng quan, hệ thống hóa kiến thức nền tảng, xu hướng, và cách tiếp cận hiện đại trong lĩnh vực Trí tuệ nhân tạo.
-
 ## 1. Khái niệm về AI/DL/ML/Generative AI
 
 Giải thích các thuật ngữ và sự khác biệt giữa:
